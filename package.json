@@ -2,7 +2,7 @@
   "name": "starter",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "default": "index.html",
   "dependencies": {
     "core-js": "^3.18.0",
     "fractional": "^1.0.0",
