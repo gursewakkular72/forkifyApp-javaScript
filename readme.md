@@ -1,5 +1,6 @@
-#Forkify App <br/><br/>
-Please note, the HTML and CSS in this project is not mine; I made this project while doing an online course on javaScript. The HTML and CSS belongs to the instructor. However, the entire javaScript code is written by me. 
+# Forkify App <br/><br/>
+
+Please note, the HTML and CSS in this project is not mine. I made this project as a part of an online javaScript course. The HTML and CSS in this project belongs to the instructor, Jonas Schmedtmann. However, I coded the javaScript by myself. <br />
 
 Forkify A dynamic, but static web application, developed using JavaScript, allowing users to search for different recipes,
 bookmark favourite recipes, change the amount of ingredients of recipes based on the number of servings and create their own
