@@ -1,5 +1,7 @@
 # Forkify App <br/><br/>
 
+see the app live at https://gursewaksinghforkify.netlify.app/
+
 Please note, the HTML and CSS in this project is not mine. I made this project as a part of an online javaScript course. The HTML and CSS in this project belongs to the instructor, Jonas Schmedtmann. However, I coded the javaScript by myself. <br />
 
 Forkify A dynamic, but static web application, developed using JavaScript, allowing users to search for different recipes,
